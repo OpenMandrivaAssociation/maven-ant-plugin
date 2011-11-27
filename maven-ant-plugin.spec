@@ -1,6 +1,6 @@
 Name:           maven-ant-plugin
 Version:        2.3
-Release:        4
+Release:        6
 Summary:        Maven Ant Plugin
 
 Group:          Development/Java

@@ -5,7 +5,7 @@ Summary:        Maven Ant Plugin
 
 Group:          Development/Java
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-ant-plugin
+URL:            https://maven.apache.org/plugins/maven-ant-plugin
 #svn export http://svn.apache.org/repos/asf/maven/plugins/tags/maven-ant-plugin-2.3/
 #tar jcf maven-ant-plugin-2.3.tar.bz2 maven-ant-plugin-2.3/
 Source0:        %{name}-%{version}.tar.bz2
